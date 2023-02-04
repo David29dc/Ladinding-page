@@ -4,5 +4,7 @@
 
 ## Tecnologias
 **HTML**
+
 **CSS**
+
 **Git e Github**
