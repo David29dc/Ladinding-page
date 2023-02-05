@@ -4,7 +4,7 @@
  
  ![screenshoot da landing page!](screenshot.png)
 
-**[Click here to acess the website](https://david29dc.github.io/Barbaria-Alura/)**
+**[Click here to acess the website]( https://david29dc.github.io/Ladinding-page/)**
 
 > ## Tecnologias
 > 
