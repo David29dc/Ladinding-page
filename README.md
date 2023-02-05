@@ -1,10 +1,13 @@
 # Landing page
- Landing Page desenvolvida com Rafaella Ballerini
+
+ Landing Page desenvolvida com ajuda da Rafaella Ballerini
+ 
  ![screenshoot da landing page!](screenshot.png)
 
-## Tecnologias
-**HTML**
+**[Click here to acess the website](https://david29dc.github.io/Barbaria-Alura/)**
 
-**CSS**
-
-**Git e Github**
+> ## Tecnologias
+> 
+> - **HTML** <br>
+> - **CSS** <br>
+> - **Git e Github**
